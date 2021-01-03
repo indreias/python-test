@@ -1,6 +1,7 @@
 name: Pylint-Pytest
 
 on:
+  workflow_dispatch:
   push:
     paths:
     - '**.py'
