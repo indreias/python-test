@@ -1,5 +1,5 @@
 """This module is the second test"""
 
-def mySum(a,b):
+def my_sum(first, second):
     """This function will return the sum of two values"""
-    return a + b
+    return first + second
